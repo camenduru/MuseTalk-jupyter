@@ -9,7 +9,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MuseTalk-jupyter/blob/main/MuseTalk_jupyter.ipynb) | MuseTalk_jupyter
 
 ### 🧬 Code
-https://github.com/TMElyralab/MusePose
+https://github.com/TMElyralab/MuseTalk
 
 ### 🖼 Output
 
